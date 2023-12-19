@@ -15,7 +15,7 @@ interface NavigationItem {
 
 const navigation: NavigationItem[] = [
     { name: 'Home', href: '#home-section', current: false },
-    { name: 'Staked Points', href: '#exchange-section', current: false },
+    { name: 'Staked Points', href: '#points-section', current: false },
     { name: 'FAQ', href: '#faq-section', current: false },
 ]
 
