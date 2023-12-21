@@ -4,7 +4,7 @@ import type { ColumnsType } from 'antd/es/table';
 import JsonData from './latest.json'
 
 interface DataType {
-    key: React.Key;
+    // key: React.Key;
     rank: number;
     points: number;
     address: string;
@@ -34,7 +34,7 @@ const columns: ColumnsType<DataType> = [
 
 
 const StakedPoints = () => {
-    const data = JsonData.map(row => ({ rank: row.rank, points: row.points, address: row.address }));
+    const data: DataType[] = JsonData.map(row => ({ rank: row.rank, points: row.points, address: row.address }));
     return (
         <>
             <div className='mx-auto max-w-7xl pt-40 px-6' id="points-section">
