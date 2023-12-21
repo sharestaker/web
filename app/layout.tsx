@@ -2,7 +2,8 @@ import './globals.css';
 import '@/node_modules/react-modal-video/scss/modal-video.scss';
 import Navbar from './components/Navbar/index';
 import Footer from './components/Footer/index';
-
+import { ConfigProvider } from 'antd';
+import theme from './theme/antdThemeConfig';
 
 export const metadata = {
   title: 'Share Staker',
@@ -20,9 +21,11 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body>
-        <Navbar />
-        {children}
-        <Footer />
+        <ConfigProvider theme={theme}>
+          <Navbar />
+          {children}
+          <Footer />
+        </ConfigProvider>
       </body>
     </html>
   )

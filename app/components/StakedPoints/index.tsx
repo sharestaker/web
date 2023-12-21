@@ -1,41 +1,46 @@
 import Image from "next/image";
+import { Table } from 'antd';
+import type { ColumnsType } from 'antd/es/table';
+import JsonData from './latest.json'
 
-interface table {
-    index: number;
-    name: string;
-    price: number;
-    change: number;
-    cap: number;
-    action: string;
-    imgSrc: string;
+interface DataType {
+    key: React.Key;
+    rank: number;
+    points: number;
+    address: string;
 }
 
-const tableData: table[] = []
+const columns: ColumnsType<DataType> = [
+    {
+        title: 'Rank',
+        dataIndex: 'rank',
+        width: 100,
+        align: 'right'
+    },
+    {
+        title: 'Points',
+        dataIndex: 'points',
+        width: 350,
+        align: 'right'
+    },
+    {
+        title: 'Address',
+        dataIndex: 'address',
+        align: 'right'
+    },
+];
+
+
+
 
 const StakedPoints = () => {
+    const data = JsonData.map(row => ({ rank: row.rank, points: row.points, address: row.address }));
     return (
         <>
             <div className='mx-auto max-w-7xl pt-40 px-6' id="points-section">
                 <div className="table-b bg-navyblue p-8 overflow-x-auto">
-                    <h3 className="text-offwhite text-2xl">Staked Points (WIP) (May release in 1 or 2 weeks) </h3>
-                    <table className="table-auto w-full mt-10">
-                        <thead>
-                            <tr className="text-white bg-darkblue rounded-lg">
-                                <th className="px-4 py-4 font-normal">#</th>
-                                <th className="px-4 py-4 text-start font-normal">Address</th>
-                                <th className="px-4 py-4 font-normal">Points</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            {tableData.map((items, i) => (
-                                <tr key={i} className="border-b border-b-darkblue">
-                                    <td className="px-4 py-6 text-center text-white">{items.index}</td>
-                                    <td className="px-4 py-6 text-center text-white">${items.price.toLocaleString()}</td>
-                                    <td className="px-4 py-6 text-center text-white">${items.cap.toLocaleString()}</td>
-                                </tr>
-                            ))}
-                        </tbody>
-                    </table>
+                    <h3 className="text-offwhite text-2xl">Staked Points (update at block 7828792) </h3>
+                    <Table className="table-auto w-full mt-10" columns={columns} dataSource={data} pagination={{ pageSize: 10 }} />
                 </div>
             </div>
             <Image src={'/images/Table/Untitled.svg'} alt="ellipse" width={2460} height={102} className="md:mb-40 md:-mt-6" />
