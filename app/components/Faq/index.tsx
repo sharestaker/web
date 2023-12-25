@@ -10,12 +10,12 @@ interface faqdata {
 
 const faqdata: faqdata[] = [
     {
-        heading: "1. What are Stacked Points?",
+        heading: "1. What are Staked Points?",
         subheading: 'Staked points are for staking users who deposit their native tokens to Share Staker node.'
     },
     {
-        heading: "2. How to get Stacked Points?",
-        subheading: 'Just stake to Share Staker node and you will get stacked points. '
+        heading: "2. How to get Staked Points?",
+        subheading: 'Just stake to Share Staker node and you will get staked points. '
     },
     {
         heading: "3. When calculate Staked Points?",
