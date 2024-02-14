@@ -2,221 +2,466 @@
   {
     "rank": 1,
     "address": "kava1t5r7z6ngykst3hutqjjzmnulvk34t87agfh4vh",
-    "points": 49485.637912000006
+    "points": 66287.502886
   },
   {
     "rank": 2,
     "address": "kava1gggszchqvw2l65my03mak6q5qfhz9cn2g0px29",
-    "points": 9174.466153
+    "points": 12442.988577
   },
   {
     "rank": 3,
     "address": "kava1druwcr4m50zu22kpgu4r0yr9pygnhsuvrpuvee",
-    "points": 6564.708304
+    "points": 8783.759327
   },
   {
     "rank": 4,
     "address": "kava165ykdjjlpdcuyffs0yrgquaw5pxcg7702yff46",
-    "points": 3315.872229
+    "points": 4421.162972
   },
   {
     "rank": 5,
     "address": "kava1txpwaawa454dq09gqepvlytwr6phy0vhe2e7xj",
-    "points": 2000.0
+    "points": 4000.0
   },
   {
     "rank": 6,
     "address": "kava1p3jmeqe3jg9sex2jawalvmfvgees886dd5rxyn",
-    "points": 1861.674768
+    "points": 2482.233024
   },
   {
     "rank": 7,
     "address": "kava1nm9vrvg2q2sep0lg373r3nce0d5hsnz0f9zgrr",
-    "points": 1228.558836
+    "points": 1638.078448
   },
   {
     "rank": 8,
     "address": "kava1hda9egcx0x0pyvwd9cuw82ezs8u8yrdtmc42xl",
-    "points": 901.744017
+    "points": 1202.325356
   },
   {
     "rank": 9,
+    "address": "kava1dq420m4h62st9hvct6pg5rwfysmvk8f38d8jqv",
+    "points": 717.407266
+  },
+  {
+    "rank": 10,
     "address": "kava1avtlgme4as6n6sfl6tnxfk2jdrmtalwcztsqgm",
     "points": 643.799999
   },
   {
-    "rank": 10,
+    "rank": 11,
+    "address": "kava1emhj03hd0zueyzygsq20c8ht34qapclmaekf4z",
+    "points": 599.94
+  },
+  {
+    "rank": 12,
+    "address": "kava15206l6rv2uaed4qynjk30427tln4qcllvhf9kx",
+    "points": 573.308171
+  },
+  {
+    "rank": 13,
     "address": "kava17scgt5u8x0wwd9q55x2cq6gtvf7mdw258esxll",
     "points": 495.628256
   },
   {
-    "rank": 11,
+    "rank": 14,
     "address": "kava1lra2vjuvtq27rjhmsmmmf83d4h83g0t876g97k",
     "points": 489.0
   },
   {
-    "rank": 12,
-    "address": "kava1emhj03hd0zueyzygsq20c8ht34qapclmaekf4z",
-    "points": 449.95500000000004
+    "rank": 15,
+    "address": "kava1gr4fgnpyqjc2qn03yds09a20xv49h0flf7csjc",
+    "points": 466.0
   },
   {
-    "rank": 13,
+    "rank": 16,
+    "address": "kava10qrrxnz4app80gfq89nur9d0yfxwvxkdqvkmjy",
+    "points": 465.849083
+  },
+  {
+    "rank": 17,
+    "address": "kava1ytw83kr5j4jmv5s3lmygrzshges0h63hdf3rud",
+    "points": 455.9088
+  },
+  {
+    "rank": 18,
+    "address": "kava1drncpelkwyfn74ydqfd6jpdecuzyj35yq4t6zu",
+    "points": 444.071952
+  },
+  {
+    "rank": 19,
     "address": "kava15ayt6ttjd329tqr7qmdhr8h8n38vzz57puspet",
     "points": 401.74
   },
   {
-    "rank": 14,
-    "address": "kava1dq420m4h62st9hvct6pg5rwfysmvk8f38d8jqv",
-    "points": 358.703633
+    "rank": 20,
+    "address": "kava1npn6czm4nqvh7jntk3f3ecwv7jfdnx2lgmc79p",
+    "points": 400.0
   },
   {
-    "rank": 15,
-    "address": "kava1ytw83kr5j4jmv5s3lmygrzshges0h63hdf3rud",
-    "points": 341.9316
-  },
-  {
-    "rank": 16,
+    "rank": 21,
     "address": "kava1lj9943t78qeqn7zyep6sq36kzrk9dhw4nh80fd",
     "points": 331.058786
   },
   {
-    "rank": 17,
-    "address": "kava1drncpelkwyfn74ydqfd6jpdecuzyj35yq4t6zu",
-    "points": 319.553964
-  },
-  {
-    "rank": 18,
+    "rank": 22,
     "address": "kava1qge7yt898l4xvt72rtlcrjn5pyyhe2q0s6ya6k",
     "points": 285.00014400000003
   },
   {
-    "rank": 19,
-    "address": "kava1npn6czm4nqvh7jntk3f3ecwv7jfdnx2lgmc79p",
-    "points": 200.0
+    "rank": 23,
+    "address": "kava18z2dznfesd67kly042rfh0ay0x40ujf032prrz",
+    "points": 265.631733
   },
   {
-    "rank": 20,
+    "rank": 24,
+    "address": "kava1t2u2dak8lw6wnkkycpelcwwlc5pcrgaxtes2yg",
+    "points": 254.083612
+  },
+  {
+    "rank": 25,
+    "address": "kava1jkr9quk7xugx2n5q4mq63ujawn7l4gf33cchnu",
+    "points": 251.560639
+  },
+  {
+    "rank": 26,
+    "address": "kava12dcqjh8jg5ucn4ek88ypzsn992kytslagqzs83",
+    "points": 250.000001
+  },
+  {
+    "rank": 27,
+    "address": "kava1c23jvdptr75grrzkdhv0ja599l8caa58ya3u48",
+    "points": 241.23994299999998
+  },
+  {
+    "rank": 28,
+    "address": "kava1ja93t88h76dck0xaja3f27w8g7t9gv5lsk6wly",
+    "points": 236.0
+  },
+  {
+    "rank": 29,
+    "address": "kava1e2q3pvagt928000hrysg72jc4x4f3jrnw856vz",
+    "points": 218.102413
+  },
+  {
+    "rank": 30,
+    "address": "kava14gns53437uskn2sv69ry2rpjl5sspgjm3fg944",
+    "points": 200.2
+  },
+  {
+    "rank": 31,
     "address": "kava17czzx6awc3v6llypyyeez505xe833jw84l0mz5",
     "points": 199.399999
   },
   {
-    "rank": 21,
-    "address": "kava1c23jvdptr75grrzkdhv0ja599l8caa58ya3u48",
-    "points": 160.493295
+    "rank": 32,
+    "address": "kava1ckkm86ddlnta38zmes7u9cxp2e44as7aqe8hwc",
+    "points": 198.831628
   },
   {
-    "rank": 22,
-    "address": "kava15206l6rv2uaed4qynjk30427tln4qcllvhf9kx",
-    "points": 135.0
+    "rank": 33,
+    "address": "kava1k2nwtnxrtmh4q9mjsp360lvwse52v987e9u7gk",
+    "points": 143.4
   },
   {
-    "rank": 23,
+    "rank": 34,
+    "address": "kava19a7ep580jyzzt56kve9c79x3rnvtv3gmt86g7c",
+    "points": 142.4
+  },
+  {
+    "rank": 35,
+    "address": "kava1nj8fwtcczguuxhxpn7jrz76v59z9j4hy3h76sv",
+    "points": 136.793199
+  },
+  {
+    "rank": 36,
+    "address": "kava12q4fk8yquq7vrpssamr29hfgmp32jp992yhp2p",
+    "points": 135.9944
+  },
+  {
+    "rank": 37,
+    "address": "kava1hugrd2x9lm9qpr60s8nuycn54hetdh03mhvehw",
+    "points": 134.0
+  },
+  {
+    "rank": 38,
     "address": "kava12dpg66rs4pu8k6859p5asd8703fl4lmg0mkvpx",
     "points": 129.999999
   },
   {
-    "rank": 24,
-    "address": "kava1ja93t88h76dck0xaja3f27w8g7t9gv5lsk6wly",
-    "points": 118.0
+    "rank": 39,
+    "address": "kava1gwd80gldrdrrzvxt09wshzyu5h7g94whvzymvp",
+    "points": 122.479144
   },
   {
-    "rank": 25,
-    "address": "kava1e2q3pvagt928000hrysg72jc4x4f3jrnw856vz",
-    "points": 109.0
+    "rank": 40,
+    "address": "kava1m3rjyfk0sx8jdp03zalqn2r4y8aa7h7q7uhkja",
+    "points": 100.0
   },
   {
-    "rank": 26,
-    "address": "kava12q4fk8yquq7vrpssamr29hfgmp32jp992yhp2p",
-    "points": 101.9958
+    "rank": 41,
+    "address": "kava1r497gra5tlst6ghaks6ns8hene653rppc9jkxk",
+    "points": 99.989998
   },
   {
-    "rank": 27,
-    "address": "kava14gns53437uskn2sv69ry2rpjl5sspgjm3fg944",
-    "points": 100.1
+    "rank": 42,
+    "address": "kava1fk046350msu38ak94ts8yr0v9j4xtxej3q7el8",
+    "points": 82.078781
   },
   {
-    "rank": 28,
+    "rank": 43,
     "address": "kava1em72np2pyyfhrqhsyp37x2np2t58zlf56v76fy",
-    "points": 59.999999
+    "points": 79.999999
   },
   {
-    "rank": 29,
+    "rank": 44,
+    "address": "kava1td4dflup866tyq00vddk3qwzfr3mcxrktpld0c",
+    "points": 65.0
+  },
+  {
+    "rank": 45,
+    "address": "kava15yya5tzpuh4lag76zg4vyh84dsz4qeq8nkn2ex",
+    "points": 51.0
+  },
+  {
+    "rank": 46,
+    "address": "kava1pggyz6ckh4x0kwvtpa77459gwvk30j898yymns",
+    "points": 50.0001
+  },
+  {
+    "rank": 47,
+    "address": "kava10mn0zfdfccx2xyfh8u94mad43xwllfc5gt5ltr",
+    "points": 50.0
+  },
+  {
+    "rank": 48,
+    "address": "kava10vfluzvj4e6hfwyg7tlug0ua7wz04y77q5djlp",
+    "points": 48.48782
+  },
+  {
+    "rank": 49,
+    "address": "kava12upexenu733xgyvkxtw3ec083sjtjrlm0u8l0j",
+    "points": 43.640879999999996
+  },
+  {
+    "rank": 50,
+    "address": "kava1mpddg2m05wce7dwp2xmqx03ngtrvtaq8kup6pp",
+    "points": 41.919966
+  },
+  {
+    "rank": 51,
+    "address": "kava1tgeh8d43u00hza47grdx65a9tzqylkam3sceay",
+    "points": 40.7
+  },
+  {
+    "rank": 52,
+    "address": "kava1zs700azf7ezld7npp34cnrkzjhc407umq5ajr0",
+    "points": 39.999995000000006
+  },
+  {
+    "rank": 53,
+    "address": "kava1vuptr2ta8vhf0plzxuwy6793zckfk4shqug2ml",
+    "points": 36.999999
+  },
+  {
+    "rank": 54,
     "address": "kava13y54gy5t8u58ga37c9k7dunersv6x54cphtnaw",
     "points": 30.052394
   },
   {
-    "rank": 30,
-    "address": "kava1zs700azf7ezld7npp34cnrkzjhc407umq5ajr0",
-    "points": 29.999996000000003
-  },
-  {
-    "rank": 31,
-    "address": "kava1mpddg2m05wce7dwp2xmqx03ngtrvtaq8kup6pp",
-    "points": 27.946644
-  },
-  {
-    "rank": 32,
+    "rank": 55,
     "address": "kava1wzj94ezwfwplyk6uve0eamt2v0pnjvrsxckh7g",
-    "points": 22.055514000000002
+    "points": 29.689672
   },
   {
-    "rank": 33,
-    "address": "kava12upexenu733xgyvkxtw3ec083sjtjrlm0u8l0j",
-    "points": 21.731101
+    "rank": 56,
+    "address": "kava124pvuxz2fu8x7hxy8m5pshd7tpcxd966vepnxt",
+    "points": 26.21
   },
   {
-    "rank": 34,
-    "address": "kava1xajda4r6qslusgrnnx7676n7tcnzd4knzxz50y",
-    "points": 11.897919
-  },
-  {
-    "rank": 35,
-    "address": "kava13cdvtvurs4l3xx7q2xzye4ssnkfaw7szm0ewxt",
-    "points": 10.4
-  },
-  {
-    "rank": 36,
-    "address": "kava1dguqlljzmdehp4q72d097lsz5a2gp4mlw97q3g",
-    "points": 9.999999
-  },
-  {
-    "rank": 37,
+    "rank": 57,
     "address": "kava1d4ve3v7mm5gtp8tfyppg07tudtvnjd66k6xlfz",
-    "points": 9.0
+    "points": 23.949361
   },
   {
-    "rank": 38,
+    "rank": 58,
+    "address": "kava18d4dfv8w58m0rdg4r80g8w20tshjy4lleqdnm3",
+    "points": 20.133417
+  },
+  {
+    "rank": 59,
+    "address": "kava1qxkgjr4u87fw78qquqec3xvzka3ccawq5tu9ex",
+    "points": 20.0
+  },
+  {
+    "rank": 60,
+    "address": "kava1r96c6e6fvyecet7f8ykn9cfq8u2mk79l3uznyl",
+    "points": 20.0
+  },
+  {
+    "rank": 61,
+    "address": "kava1dguqlljzmdehp4q72d097lsz5a2gp4mlw97q3g",
+    "points": 19.999999000000003
+  },
+  {
+    "rank": 62,
+    "address": "kava13cdvtvurs4l3xx7q2xzye4ssnkfaw7szm0ewxt",
+    "points": 17.851074
+  },
+  {
+    "rank": 63,
+    "address": "kava1xajda4r6qslusgrnnx7676n7tcnzd4knzxz50y",
+    "points": 15.863892
+  },
+  {
+    "rank": 64,
+    "address": "kava1gnvhdn0fqnesudxr7hs3sjswavq42gqxp4r66l",
+    "points": 15.068679
+  },
+  {
+    "rank": 65,
+    "address": "kava1wvz0k76ufs00jwgyrhhvlgq7zwhgj7am0swj45",
+    "points": 15.0
+  },
+  {
+    "rank": 66,
+    "address": "kava1nae9aexcs0gj2x4ngp26hsuq7jvqsd4hehulm0",
+    "points": 14.0
+  },
+  {
+    "rank": 67,
+    "address": "kava1ujcezm0xuujxedfp6kte87tfgrrpdwn6p2u3p2",
+    "points": 13.999999
+  },
+  {
+    "rank": 68,
+    "address": "kava1yl3397cu95us2hrjn2w7rltqlujptclpau3t39",
+    "points": 12.0
+  },
+  {
+    "rank": 69,
     "address": "kava1n4w58yg0v67r7ucg6dt0u2xv7wewyha9m9f5js",
-    "points": 8.995503
+    "points": 11.994004
   },
   {
-    "rank": 39,
+    "rank": 70,
     "address": "kava1mr3ndrqt0fswcxtupyqzcrhsv0lek0uyy7hre4",
-    "points": 7.1399930000000005
+    "points": 11.459990000000001
   },
   {
-    "rank": 40,
+    "rank": 71,
+    "address": "kava1z0pdlf7zner8ce0s2nx0xd987wjlf65mhf97xk",
+    "points": 10.0
+  },
+  {
+    "rank": 72,
+    "address": "kava1wwavn2m0sznlvqrxw4l7g3wcgj8u4j2jdznl55",
+    "points": 10.0
+  },
+  {
+    "rank": 73,
+    "address": "kava1cnhvch7437s02ndw56sxdlnw9qtqmatxu8kjqp",
+    "points": 10.0
+  },
+  {
+    "rank": 74,
+    "address": "kava1scazsshk3pdypztpc7vefg6lw2422cemul6d49",
+    "points": 8.961588
+  },
+  {
+    "rank": 75,
+    "address": "kava1gks8vffafpq0pawu7qa9tayqzjxjcfagmvy0gc",
+    "points": 8.000001
+  },
+  {
+    "rank": 76,
+    "address": "kava1he8wwt4sdrlka4x39x4065hme0ryldz37sxt4l",
+    "points": 5.01
+  },
+  {
+    "rank": 77,
+    "address": "kava13uh4kwtpwkwulfeps425lm0wd9rl0y4xqr8z8y",
+    "points": 5.0
+  },
+  {
+    "rank": 78,
+    "address": "kava1np5g0vacxftflsnyheakjpl07namrm0w5kvmpy",
+    "points": 5.0
+  },
+  {
+    "rank": 79,
     "address": "kava1n4yln8uc3zf9rm6e6d09n8ue2355xl39xmam2r",
-    "points": 2.9991000000000003
+    "points": 4.067921
   },
   {
-    "rank": 41,
+    "rank": 80,
     "address": "kava169z4n0u9uxdkggjucwvvqvzlcdmzvttzeqwpw9",
-    "points": 1.999999
+    "points": 3.999999
   },
   {
-    "rank": 42,
+    "rank": 81,
+    "address": "kava105v2kpkwa3pxprndtqwsf6sgp83x4trlen9cgz",
+    "points": 2.8
+  },
+  {
+    "rank": 82,
+    "address": "kava1822qju2t03zzpvplkkgaed9w35cddgv8twxu2u",
+    "points": 2.0
+  },
+  {
+    "rank": 83,
+    "address": "kava1elplqwjtd9deh64m25p0rmd7chu6t74aq0vvzp",
+    "points": 2.0
+  },
+  {
+    "rank": 84,
     "address": "kava1hag39e840hc8l7ag2nu4qsr82tza3r0qg5chtr",
-    "points": 1.420791
+    "points": 1.894388
   },
   {
-    "rank": 43,
+    "rank": 85,
+    "address": "kava1dvw246ahvzypgrcww98yc4vr92pc3uze3mz67l",
+    "points": 1.5
+  },
+  {
+    "rank": 86,
+    "address": "kava1us0yrv2z9axmmjluypp2u0vm9dd6rq2esgutym",
+    "points": 1.4
+  },
+  {
+    "rank": 87,
+    "address": "kava1yucxxv3hpec8lkdx78ukt5thzzqqvqx8jcadfm",
+    "points": 1.0
+  },
+  {
+    "rank": 88,
+    "address": "kava1q3s6aldu7csx2fpxqf48lqque75alr77jtkla6",
+    "points": 0.999999
+  },
+  {
+    "rank": 89,
     "address": "kava1ed3gvk7ua63d53xs0lc93es45j85qeyqg9rt6k",
-    "points": 0.5124569999999999
+    "points": 0.683276
   },
   {
-    "rank": 44,
+    "rank": 90,
     "address": "kava14lpkfr6pnfzn67vxulezwu2ztmn67rq8uer24y",
-    "points": 0.301995
+    "points": 0.40266
+  },
+  {
+    "rank": 91,
+    "address": "kava1x6gd0qkyavv5crmmm9e895f8k38rw38saqe9dy",
+    "points": 0.2
+  },
+  {
+    "rank": 92,
+    "address": "kava1rkkcgyagctjmevsl3acupr0mjmvdfh6maq9emf",
+    "points": 0.199999
+  },
+  {
+    "rank": 93,
+    "address": "kava12t2j2ut24m8ztzdu627vj7qs53pfznmzpf6crj",
+    "points": 1e-06
   }
 ]

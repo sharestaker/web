@@ -39,7 +39,7 @@ const StakedPoints = () => {
         <>
             <div className='mx-auto max-w-7xl pt-40 px-6' id="points-section">
                 <div className="table-b bg-navyblue p-8 overflow-x-auto">
-                    <h3 className="text-offwhite text-2xl">Staked Points (update at block 7,974,609) </h3>
+                    <h3 className="text-offwhite text-2xl">Staked Points (update at block 8,583,446) </h3>
                     <Table className="table-auto w-full mt-10" columns={columns} dataSource={data} pagination={{ pageSize: 10 }} />
                 </div>
             </div>
